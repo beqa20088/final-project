@@ -351,3 +351,7 @@ option{
 main{
   margin-top: 100px;
 }
+img{
+  width: 90px;
+  height: 30px;
+}
